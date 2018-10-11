@@ -65,7 +65,7 @@ public class TrialExam {
     }
     
     /**
-     * 12%
+     * 10%
      * Returnér navnet på den forfatter som har flest bøger på listen.
      * (Bonus point gives, hvis dette gøres med et enkelt loop)
      */
@@ -74,6 +74,7 @@ public class TrialExam {
     }
     
     /**
+     * 10%
      * Skub alle bogstaver i titlen et antal skridt længere frem i alfabetet.
      * Således bliver pushTitle("Abe", 2) til "Cdg" 
      * (A->C, b->d, e->g)
