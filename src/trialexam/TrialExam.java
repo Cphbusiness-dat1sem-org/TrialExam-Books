@@ -46,7 +46,7 @@ public class TrialExam {
     }
     
     /**
-     * 8%
+     * 6%
      * Sammenlign en bog med en anden. Metoden returnere et negativt tal hvis den første bogs isbn er mindre 
      * end den anden bogs isbn. Et positivt tal hvis det er større og 0 hvis de to isbn 
      * værdier er ens.
